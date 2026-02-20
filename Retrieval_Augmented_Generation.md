@@ -40,7 +40,7 @@ flowchart LR
 
 - Knowledge building phase.
   
-- Process of preparing and storing data so the system can use it later.
+- Process of preparing and storing data,so the system can use it later.
   
 - It involves:
   1. Collecting source documents.
