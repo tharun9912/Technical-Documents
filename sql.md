@@ -141,7 +141,7 @@ COMMIT;
   
 - Locking keeps data safe and controls concurrent access to avoid conflicts.
   
-### Types of Locks**
+### Types of Locks
 
 **Row Level Locking**
 
