@@ -16,6 +16,18 @@
 
 - Transfer Control Protocol(TCP),it is the transport layer protocol.
 
+## Problem Without MCP
+
+An AI model
+
+- Cannot directly access a database.
+
+- Cannot safely call APIs.
+
+- Does not know how to structure tool communication.
+
+- May return unstructured or unsafe outputs.
+
 ## What is MCP?
 
 - Model context protocol(MCP) is a communication protocol that defines how AI models communicate with external systems.
