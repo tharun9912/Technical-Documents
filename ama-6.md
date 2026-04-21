@@ -1,4 +1,4 @@
-# Django Basics - Simple Notes
+# AMA-6
 
 ## 1. Files created automatically in a Django project
 
